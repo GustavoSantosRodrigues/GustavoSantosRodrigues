@@ -26,6 +26,8 @@
   <a href="https://www.linkedin.com/in/gustavo-santos-55a13a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href= "gustavopop000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+   <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" target="_blank"></a>
+<!--   https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
 </div>
   
  ![Snake animation](https://github.com/GustavoSantosRodrigues/GustavoSantosRodrigues/blob/output/github-contribution-grid-snake.svg)
