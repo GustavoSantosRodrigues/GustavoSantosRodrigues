@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Prazer, Gustavo Santos Rodrigues 💻
 
 - 🔭 Atualmente estou estagiando como desenvolvedor Front-End
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec)
