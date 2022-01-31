@@ -5,7 +5,7 @@
 - 📫 E-mail para contato: gustavo.rodrigues35@fatec.sp.gov.br
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GustavoSantosRodrigues">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantosRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosRodrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
