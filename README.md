@@ -1,4 +1,3 @@
-<div style="background-color:dark-gray">  
   ### Olá! Prazer, Gustavo Santos Rodrigues 💻
 
   - 🔭 Atualmente estou estagiando como desenvolvedor Front-End
@@ -32,4 +31,4 @@
   </div>
 
    ![Snake animation](https://github.com/GustavoSantosRodrigues/GustavoSantosRodrigues/blob/output/github-contribution-grid-snake.svg)
-</div>
+
