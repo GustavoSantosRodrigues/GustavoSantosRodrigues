@@ -1,4 +1,4 @@
-<div style:"background-color:dark-gray">  
+<div style="background-color:dark-gray">  
   ### Olá! Prazer, Gustavo Santos Rodrigues 💻
 
   - 🔭 Atualmente estou estagiando como desenvolvedor Front-End
