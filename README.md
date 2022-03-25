@@ -1,6 +1,6 @@
   ### Olá! Prazer, Gustavo Santos Rodrigues 💻
 
-  - 🔭 Atualmente estou estagiando como desenvolvedor Front-End
+  - 🔭 Atualmente estou estagiando como desenvolvedor Front-End "Empresa-Evolutap" Localizada em Mogi Das Cruzes
   - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec)
   - 📫 E-mail para contato: gustavo.rodrigues35@fatec.sp.gov.br
 
