@@ -1,8 +1,8 @@
   ### Olá! Prazer, Gustavo Santos Rodrigues 💻
 
-  - 🔭 Atualmente estou estagiando como desenvolvedor Front-End "Empresa-Evolutap" Localizada em Mogi Das Cruzes
-  - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec)
-  - 📫 E-mail para contato: gustavo.rodrigues35@fatec.sp.gov.br
+  - 🔭 Atualmente estou como desenvolvedor Júnior Front-End na "Empresa-Evolutap" Localizada em Mogi Das Cruzes
+  - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec) 5/♾️
+  - 📫 E-mail para contato: s.rodrigues.2050@hotmail.com
 
   <div align="center">
     <a href="https://github.com/GustavoSantosRodrigues">
