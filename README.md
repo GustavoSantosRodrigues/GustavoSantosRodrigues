@@ -1,4 +1,7 @@
-  ### Olá! Prazer, Gustavo Santos Rodrigues 💻
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gustavo+Santos!;" />
+</h1>
+
 
   - 🔭 Atualmente estou como desenvolvedor Júnior Front-End na "Empresa-Evolutap" Localizada em Mogi Das Cruzes
   - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec) 5/♾️
