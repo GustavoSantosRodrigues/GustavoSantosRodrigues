@@ -30,5 +30,7 @@
   <!--   https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
   </div>
 
+  ![Snake animation](https://github.com/GustavoSantosRodrigues/GustavoSantosRodrigues/blob/output/github-contribution-grid-snake.svg)
+
  
 
