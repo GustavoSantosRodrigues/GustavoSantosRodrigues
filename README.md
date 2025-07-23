@@ -2,10 +2,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=olá!+👋;+me+chamo+Gustavo+Santos!;" />
 </h1>
 
+✅ Formado em Análise e Desenvolvimento de Sistemas (FATEC)
 
-  - 🔭 Atualmente estou como desenvolvedor Júnior Front-End na "Empresa-Evolutap" Localizada em Mogi Das Cruzes
-  - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec) 5/♾️
-  - 📫 E-mail para contato: s.rodrigues.2050@hotmail.com
+💻 Experiência com React, JavaScript, WordPress, Laravel e consumo de APIs
+
+📌 Ex-desenvolvedor Front-End na Evolutap (Mogi das Cruzes)
+
+📫 Contato: s.rodrigues.2050@hotmail.com
 
   <div align="center">
     <a href="https://github.com/GustavoSantosRodrigues">
