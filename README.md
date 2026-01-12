@@ -12,7 +12,7 @@
 
   <div align="center">
     <a href="https://github.com/GustavoSantosRodrigues">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoSantosRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosRodrigues&layout=compact&langs_count=7&theme=maroongold"/>
   </div>
 
