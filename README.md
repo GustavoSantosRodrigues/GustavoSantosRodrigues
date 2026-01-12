@@ -6,7 +6,7 @@
 
 💻 Experiência com React, JavaScript, WordPress, Laravel e consumo de APIs
 
-📌 Ex-desenvolvedor Front-End na Evolutap (Mogi das Cruzes)
+📌 Ex-desenvolvedor Front-End na  Zíriga (SP- Santa Cruz)
 
 📫 Contato: s.rodrigues.2050@hotmail.com
 
