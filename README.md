@@ -10,11 +10,6 @@
 
 📫 Contato: s.rodrigues.2050@hotmail.com
 
-  <div align="center">
-    <a href="https://github.com/GustavoSantosRodrigues">
-    <img height="170em" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosRodrigues&layout=compact&langs_count=7&theme=maroongold"/>
-  </div>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
