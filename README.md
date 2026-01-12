@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="866" height="650" alt="image" src="https://github.com/user-attachments/assets/7995e7b9-e160-44a9-9b88-3c890ab6a932" /><h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gustavo+Santos!;" />
 </h1>
 
@@ -17,6 +17,7 @@
     <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Gustavo-CSS" height="70" width="70" src="https://logospng.org/wp-content/uploads/laravel.png">
+    <img align="center" alt="Gustavo-CSS" height="70" width="70" src="https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp">
   </div>
 
   ##
