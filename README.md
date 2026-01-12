@@ -1,6 +1,3 @@
-<img width="866" height="650" alt="image" src="https://github.com/user-attachments/assets/7995e7b9-e160-44a9-9b88-3c890ab6a932" /><h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gustavo+Santos!;" />
-</h1>
 
 ✅ Formado em Análise e Desenvolvimento de Sistemas (FATEC)
 
