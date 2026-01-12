@@ -4,7 +4,7 @@
 
 ✅ Formado em Análise e Desenvolvimento de Sistemas (FATEC)
 
-💻 Experiência com React, JavaScript, WordPress, Laravel e consumo de APIs
+💻 Experiência com React, JavaScript, Angular, WordPress, Laravel e consumo de APIs
 
 📌 Ex-desenvolvedor Front-End na  Zíriga (SP- Santa Cruz)
 
