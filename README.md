@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=olá!+👋;+me+chamo+Gustavo+Santos!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gustavo+Santos!;" />
 </h1>
 
 ✅ Formado em Análise e Desenvolvimento de Sistemas (FATEC)
@@ -31,7 +31,7 @@
   <!--   https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white -->
   </div>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Obrigado+pela+atenção!";" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!";" />
 </h1>
 
 
