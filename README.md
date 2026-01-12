@@ -18,6 +18,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Laravel" height="70" width="70" src="https://logospng.org/wp-content/uploads/laravel.png">
     <img align="center" alt="Angular" height="70" width="70" src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png">
+      <img align="center" alt="Wordpress" height="70" width="70" src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png">
   </div>
 
   ##
